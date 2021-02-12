@@ -26,7 +26,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -95,8 +95,6 @@ email = "nandre04@ucy.ac.cy"
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "35.1443647740031", longitude = "33.41112302849817"}
 
-# Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
