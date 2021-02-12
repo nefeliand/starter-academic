@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Nefeli Andreou (Νεφέλη)
-
+title: Nefeli Andreou
 # Is this the primary user of the site?
 superuser: true
 
