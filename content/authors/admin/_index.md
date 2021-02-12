@@ -6,8 +6,7 @@ title: Nelson Bighetti
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
-
+role: Early Stage Researcher @ [CLIPE][https://www.clipe-itn.eu/]
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Cyprus
