@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nefeli Andreou (Νεφέλη)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Early Stage Researcher @ CLIPE
+role: Early Stage Researcher @ CLIPE: https://www.ucy.ac.cy/
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Cyprus
