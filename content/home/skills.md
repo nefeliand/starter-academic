@@ -26,7 +26,7 @@ feature:
   name: Statistics
 - description: 
   icon: function
-  icon_pack: fas
+  icon_pack: far
   name: Mathematical modelling
 - description: 
   icon: overleaf
