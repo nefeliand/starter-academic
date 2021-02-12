@@ -21,10 +21,6 @@ feature:
   icon_pack: fab
   name: Python
 - description: 
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 
   icon: fa-function
   icon_pack: fas
   name: Mathematical modelling
