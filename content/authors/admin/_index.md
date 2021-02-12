@@ -6,7 +6,7 @@ title: Nelson Bighetti
 superuser: true
 
 # Role/position/tagline
-role: Early Stage Researcher @ [CLIPE][https://www.clipe-itn.eu/]
+role: Early Stage Researcher @ CLIPE
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Cyprus
