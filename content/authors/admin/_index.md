@@ -44,18 +44,18 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nefeliandreou
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Nefeli-Andreou
 - icon: github
   icon_pack: fab
   link: https://github.com/nefeliand
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/nefeliandreou/
+  link: https://www.linkedin.com/in/nefeli-andreou-7b1a91a0/
 - icon: orcid
   icon_pack: ai
-  link: https://www.linkedin.com/nefeliandreou/
+  link: https://orcid.org/0000-0003-0341-6469
 
 
 # Link to a PDF of your resume/CV.
