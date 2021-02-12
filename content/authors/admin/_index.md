@@ -72,4 +72,4 @@ I am a firt year PhD candidate at the University of Cyprus, as part of the Marie
 
 
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
