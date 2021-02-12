@@ -21,9 +21,9 @@ feature:
   icon_pack: fab
   name: Python
 - description: 
-  icon: fa-function
+  icon: chart-line
   icon_pack: fas
-  name: Mathematical modelling
+  name: Data Science
 - description: 
   icon: overleaf
   icon_pack: ai
