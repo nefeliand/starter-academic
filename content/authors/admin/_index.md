@@ -53,6 +53,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/nefeliandreou/
+- icon: orcid
+  icon_pack: ai
+  link: https://www.linkedin.com/nefeliandreou/
 
 
 # Link to a PDF of your resume/CV.
