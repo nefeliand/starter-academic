@@ -5,7 +5,7 @@ title: Nefeli Andreou
 superuser: true
 
 # Role/position/tagline
-role: Early Stage Researcher @ CLIPE: https://www.ucy.ac.cy/
+role: Early Stage Researcher @ [CLIPE](https://www.ucy.ac.cy/)
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Cyprus
@@ -68,6 +68,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a firt year PhD candidate at the University of Cyprus, as part of the Marie-Curie CLIPE project. 
+I am a firt year PhD candidate at the University of Cyprus, as part of the Marie-Curie CLIPE project under the supervision of Professor [Yiorgos Chrysanthou](http://www.cs.ucy.ac.cy/~yiorgos/). I currently work on the [CLIPE](https://www.clipe-itn.eu/) project to design the next-generation of VR-ready characters, capable of behaving realistically while interacting with real users. Prior to that, I received a BSc in Mathematics (2019) and an MSc in Data Science with Distinction (2020) from the [University of Bath](https://www.bath.ac.uk/).
+
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
