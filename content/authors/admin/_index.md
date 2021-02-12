@@ -26,7 +26,7 @@ education:
   - course: PhD in Computer Science
     institution: University of Cyprus
     year: present
-  - course: MSc in Data Science
+  - course: MSc in Data Science (Distinction)
     institution: University of Bath
     year: 2020
   - course: BSc in Mathematics
@@ -68,7 +68,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a firt year PhD candidate at the University of Cyprus, as part of the Marie-Curie CLIPE project under the supervision of Professor [Yiorgos Chrysanthou](http://www.cs.ucy.ac.cy/~yiorgos/). I currently work on the [CLIPE](https://www.clipe-itn.eu/) project to design the next-generation of VR-ready characters, capable of behaving realistically while interacting with real users. Prior to that, I received a BSc in Mathematics (2019) and an MSc in Data Science with Distinction (2020) from the [University of Bath](https://www.bath.ac.uk/).
+I am a firt year PhD candidate at the University of Cyprus, as part of the Marie-Curie CLIPE project under the supervision of Professor [Yiorgos Chrysanthou](http://www.cs.ucy.ac.cy/~yiorgos/). I currently work on the [CLIPE](https://www.clipe-itn.eu/) project to design the next-generation of VR-ready characters, capable of behaving realistically while interacting with real users.
 
 
 
