@@ -69,8 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a Marie-Curie Early Stage Researcher at the [ITN-CLIPE](https://www.clipe-itn.eu/) project and a PhD candidate under the supervision of Professor [Yiorgos Chrysanthou](http://www.cs.ucy.ac.cy/~yiorgos/). I currently work on the design of the next-generation of VR-ready characters, capable of behaving realistically while interacting with real users.
-
+I am a Marie Skłodowska-Curie Early Stage Researcher at the [ITN-CLIPE](https://www.clipe-itn.eu/) project and a PhD candidate under the supervision of Professor [Yiorgos Chrysanthou](http://www.cs.ucy.ac.cy/~yiorgos/). 
 
 
 
