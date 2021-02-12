@@ -94,12 +94,12 @@ email = "nandre04@ucy.ac.cy"
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "35.1443647740031", longitude = "33.41112302849817"}
-
+directions = "[Computer Graphics Lab](https://graphics.cs.ucy.ac.cy/)"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+ # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
