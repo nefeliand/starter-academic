@@ -69,7 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a firt year PhD candidate at the University of Cyprus, as part of the Marie-Curie CLIPE project under the supervision of Professor [Yiorgos Chrysanthou](http://www.cs.ucy.ac.cy/~yiorgos/). I currently work on the [CLIPE](https://www.clipe-itn.eu/) project to design the next-generation of VR-ready characters, capable of behaving realistically while interacting with real users.
+I am a first year PhD candidate at the University of Cyprus, as part of the Marie-Curie CLIPE project under the supervision of Professor [Yiorgos Chrysanthou](http://www.cs.ucy.ac.cy/~yiorgos/). I currently work on the [CLIPE](https://www.clipe-itn.eu/) project to design the next-generation of VR-ready characters, capable of behaving realistically while interacting with real users.
 
 
 
