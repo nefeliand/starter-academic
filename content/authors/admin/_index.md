@@ -38,25 +38,22 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:nandre04@ucy.ac.cy"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/nefeliandreou
+
 - icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://www.researchgate.net/profile/Nefeli-Andreou
 - icon: github
   icon_pack: fab
   link: https://github.com/nefeliand
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/nefeli-andreou-7b1a91a0/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-0341-6469
-
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/nefeli-andreou-7b1a91a0/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/nefeliandreou
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
